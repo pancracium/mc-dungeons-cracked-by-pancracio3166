@@ -15,7 +15,12 @@ Discord: Auspicio#8094
 <b>DirectX:</b> Version 11 or higher<br>
 <b>64-bit processor and OS</b><br>
 <b>OS:</b> Windows 7, 8, 10 and 11 (some functionalities aren't supported on Windows 7 & 8)<br>
+<b>Pixel Shader:</b> 3.0 <br>
 <br>
 # ALREADY KNOWN BUGS
-- You can't sign in with your Microsoft account, the bar bugs and becomes white and you can't type in it
-- It **can** crash when you start the game and join an offline game
+- You can't sign in with your Microsoft account, the bar bugs and becomes white and you can't type in it <br>
+- It **can** crash when you start the game and join an offline game <br>
+
+# RELEASE DATE
+
+Early 2023 ye im lazy 
