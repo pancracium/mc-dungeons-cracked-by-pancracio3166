@@ -1,10 +1,10 @@
-# mc-dungeons-cracked-by-pancracio3166
-Minecraft Dungeons Cracked By Pancracio3166
+# Minecraft Dungeons cracked by pancracio3166
+Discord: Auspicio#8094
 
 # HOW TO RUN
-<b>1.-</b> Unzip the file
+<b>1.-</b> Unzip the file<br>
 <b>2.- </b>Go to <code>Minecraft.Dungeons.v1.12.0.0\Dungeons.exe</code> and execute it<br>
-<i>If and error appears saying "DLL broken", "DLL not found" or similars, go to Minecraft.Dungeons.v1.12.0.0\Redist and execute all the 8 files</i><br>
+<i>If and error appears saying "DLL broken", "DLL not found" or similars, go to <code>Minecraft.Dungeons.v1.12.0.0\Redist</code> and execute all the 8 files</i><br>
 <br>
 # MINIMAL REQUIREMENTS
 <b>CPU:</b> Intel Core i5 2.8GHz or equivalent<br>
@@ -17,3 +17,5 @@ Minecraft Dungeons Cracked By Pancracio3166
 <b>OS:</b> Windows 7, 8, 10 and 11 (some functionalities aren't supported on Windows 7 & 8)<br>
 <br>
 # ALREADY KNOWN BUGS
+- You can't sign in with your Microsoft account, the bar bugs and becomes white and you can't type in it
+- It **can** crash when you start the game and join an offline game
