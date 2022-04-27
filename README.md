@@ -1,10 +1,13 @@
 # Minecraft Dungeons cracked by pancracio3166
 Discord: Auspicio#8094
 
+# RELEASE DATE
+Early 2023 ye im lazy 
+
 # HOW TO RUN
 <b>1.-</b> Unzip the file<br>
 <b>2.- </b>Go to <code>Minecraft.Dungeons.v1.12.0.0\Dungeons.exe</code> and execute it<br>
-<i>If and error appears saying "DLL broken", "DLL not found" or similars, go to <code>Minecraft.Dungeons.v1.12.0.0\Redist</code> and execute all the 8 files</i><br>
+<i>If and error appears saying "DLL broken", "DLL not found" or similars, go to <code>Minecraft.Dungeons.v1.12.0.0\_Redist</code> and execute all the 8 files</i><br>
 <br>
 # MINIMAL REQUIREMENTS
 <b>CPU:</b> Intel Core i5 2.8GHz or equivalent<br>
@@ -21,6 +24,3 @@ Discord: Auspicio#8094
 - You can't sign in with your Microsoft account, the bar bugs and becomes white and you can't type in it <br>
 - It **can** crash when you start the game and join an offline game <br>
 
-# RELEASE DATE
-
-Early 2023 ye im lazy 
